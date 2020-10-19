@@ -12,11 +12,11 @@
     h1 { font-size: 160%;}
     h2 { font-size: 130%;}
     header {
-        height: 50vh; 
+        height: 60vh; 
     }
     .main-header {
         width: 100%;
-        margin: -130px 0;
+        margin: -70px 0;
     }
     
     .main-header p {
@@ -62,6 +62,9 @@
     }
     footer {
         padding: 20px;
+    }
+    footer p {
+        font-size: 80%;
     }
     .social-links li {
         margin-right: 10px;
