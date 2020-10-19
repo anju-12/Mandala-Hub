@@ -1,0 +1,69 @@
+@media only screen and (max-width:1200px) {
+
+}
+
+@media only screen and (max-width:767px) {
+}
+
+/* Small phones (from 0 to 480px) */
+@media only screen and (max-width:600px) {
+    body { font-size: 15px; }
+    section { padding: 30px 0; }
+    h1 { font-size: 160%;}
+    h2 { font-size: 130%;}
+    header {
+        height: 50vh; 
+    }
+    .main-header {
+        width: 100%;
+        margin: -130px 0;
+    }
+    
+    .main-header p {
+        font-size: 130%;
+    }
+    #header-img {
+        height:75px;
+        width: auto;
+        margin: 20px 0 0 20px ;
+    }
+    #nav-bar ul {
+        margin-top: 20px;
+    }
+    #nav-bar ul li {
+        display: block;
+    }
+
+    .showcase li{
+        width: 33%;
+    }
+    .row1 {
+        display: block;
+        width: 85%;
+    }
+    
+    .plan-box {
+        height: 300px;
+        width: 80%;
+        margin-left: 0;
+        margin: 0 auto 40px;
+
+    }
+    .box-top1 h3, .box-top2 h3, .box-top3 h3 {
+        padding: 22px;
+    }
+
+    .cnt ul {
+        padding: 15px 0;
+    }
+    .plan-price { font-size:  200%; }
+    #form {
+        width: 90%; 
+    }
+    footer {
+        padding: 20px;
+    }
+    .social-links li {
+        margin-right: 10px;
+    }
+}
